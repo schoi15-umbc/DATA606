@@ -1,4 +1,5 @@
 # Air Quality Analysis
+![Uploading 1600px-Air_pollution_banner_Smog_in_Warsaw.jpg…]()
 
 
 ## Introduction
@@ -45,7 +46,7 @@ Out of the 29 elements, the ones that will be used in our project are Features:
 - AQI
 - 1st Max Value
 
-### Target variable: AQI
+#### Target variable: AQI
 ### Unit of measure
 Ozone, carbon monoxide: Parts per million
 
