@@ -16,8 +16,9 @@ Each daily summary file contains data for every monitor (sampled parameter) in o
 This file will contain a daily summary record that is:
 1) The aggregate of all sub-daily measurements taken at the monitor.
 2) The single sample value if the monitor takes a single, daily sample (e.g., there is only one sample with a 24-hour duration). In this case, the mean and max daily sample will have the same value.
+
 The daily summary files contain (at least) one record for each monitor that reported data for the given day. There may be multiple records for the monitor if:
-There are calculated sample durations for the pollutant. For example, PM2.5 is sometimes reported as 1-hour samples and EPA calculates 24-hour averages.
-There are multiple standards for the pollutant (q.v. pollutant standards).
-There were exceptional events associated with some measurements that the monitoring agency has or may request be excluded from comparison to the standard.
+- There are calculated sample durations for the pollutant. For example, PM2.5 is sometimes reported as 1-hour samples and EPA calculates 24-hour averages.
+- There are multiple standards for the pollutant (q.v. pollutant standards).
+- There were exceptional events associated with some measurements that the monitoring agency has or may request be excluded from comparison to the standard.
 (Information taken from website) 
