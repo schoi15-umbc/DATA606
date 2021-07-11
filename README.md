@@ -36,7 +36,7 @@ The daily summary files contain (at least) one record for each monitor that repo
 (Information taken from [website](https://aqs.epa.gov/aqsweb/airdata/FileFormats.html)) 
 
 ### Data Elements
-The images on the left shows the 29 columns within the dataset, along with the description for each. 
+The images on the bottom shows the 29 columns within the dataset, along with the description for each. 
 Out of the 29 elements, the ones that will be used in our project are Features:
 - State code
 - County code
@@ -45,6 +45,9 @@ Out of the 29 elements, the ones that will be used in our project are Features:
 - Arithmetic mean
 - AQI
 - 1st Max Value
+
+![1](https://user-images.githubusercontent.com/70929605/125210368-6b090d00-e26d-11eb-83c8-15453d13af0f.jpg)
+![2](https://user-images.githubusercontent.com/70929605/125210372-70665780-e26d-11eb-8ecc-3a4c31835acb.jpg)
 
 #### Target variable: AQI
 ### Unit of measure
