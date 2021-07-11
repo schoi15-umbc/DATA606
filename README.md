@@ -1,5 +1,5 @@
 # Air Quality Analysis
-![Uploading 1600px-Air_pollution_banner_Smog_in_Warsaw.jpg…]()
+![1600px-Air_pollution_banner_Smog_in_Warsaw](https://user-images.githubusercontent.com/70929605/125210145-d520b280-e26b-11eb-99fd-f3829fc825e3.jpg)
 
 
 ## Introduction
