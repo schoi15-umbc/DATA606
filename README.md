@@ -11,8 +11,8 @@ The United States Environmental Protection Agency (EPA) provides access to air q
 
 <pre>
 Phase 1 :  <a href=https://github.com/schoi15-umbc/DATA606/blob/main/Phase%201/Phase1.pptx>Power Point</a> / <a href=https://github.com/schoi15-umbc/DATA606/blob/main/Phase%201/Phase1_EDA.ipynb>EDA</a> / Youtube</a>
-Phase 2 :
-Phase 3P: 
+Phase 2 :  <a href=>Power Point</a> / <a href=>EDA & Model Construction</a> / Youtube</a>
+Phase 3P: <a href=>Power Point</a> / <a href=>EDA</a>Execution and Interpretation	 / Youtube</a>
 Executive Code  : <a href=>Executive Notebook </a> </a>
 
 </pre>
