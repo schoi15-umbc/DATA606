@@ -8,9 +8,20 @@ Saving and protecting our environment is a key topic these days. Every issue of 
 
 The United States Environmental Protection Agency (EPA) provides access to air quality data (primarily from Air quality system (AQS) database) collected at outdoor monitors across the United Sates, Puerto Rico, and the U.S Virgin Islands. The data can be used to view, create visuals and graphical displays, investigate monitor locations, and so on. It is accessible to the public and can be downloaded by hourly, daily, and annual concentration data, AQI data, and speciated particle pollution data.
 
+<pre>
+Phase 1 :
+Phase 2 :
+Phase 3P: 
+Executive Code  : <a href=>Executive Notebook </a> </a>
 
-## Data Set Overview
-The Data set is retrieved from United States Environmental Protection Agency (EPA).
+</pre>
+
+
+## Data Set 
+
+### Overview
+The Data set is retrieved from [United States Environmental Protection Agency (EPA).](https://aqs.epa.gov/aqsweb/airdata/download_files.html#Daily)
+
 EPA has annual datasets from 1980 - 2021 (as of 2021-05-18) categorized by concentration by monitor, Air Quality Index (AQI) by Core Based Statistical Areas (CBSA), and AQI by County. 
 Each daily summary file contains data for every monitor (sampled parameter) in our database for each day. These files are separated by parameter (or parameter group) to make the sizes more manageable.
 This file will contain a daily summary record that is:
@@ -21,4 +32,33 @@ The daily summary files contain (at least) one record for each monitor that repo
 - There are calculated sample durations for the pollutant. For example, PM2.5 is sometimes reported as 1-hour samples and EPA calculates 24-hour averages.
 - There are multiple standards for the pollutant (q.v. pollutant standards).
 - There were exceptional events associated with some measurements that the monitoring agency has or may request be excluded from comparison to the standard.
-(Information taken from website) 
+(Information taken from [website](https://aqs.epa.gov/aqsweb/airdata/FileFormats.html)) 
+
+### Data Elements
+The images on the left shows the 29 columns within the dataset, along with the description for each. 
+Out of the 29 elements, the ones that will be used in our project are Features:
+- State code
+- County code
+- Observation Count
+- Observation Percent
+- Arithmetic mean
+- AQI
+- 1st Max Value
+
+### Target variable: AQI
+### Unit of measure
+Ozone, carbon monoxide: Parts per million
+
+Nitrogen dioxide (NO2), Sulfur dioxide :Parts per billion
+
+Daily Summary dataset for Ozone (44201) 2020 contains 391,923 Rows, 24 Columns, and is  3,127 KB. It contains numerical and categorical data.
+Daily Summary dataset for Sulfur dioxide (SO2 (42401)) 2020 contains 324,817 Rows, 24 Columns, and is  4,357 KB. It contains numerical and categorical data.
+Daily Summary dataset for Carbon Monoxide (CO (42101)) 2020 contains 178,789 Rows, 24 Columns, and is  1,784 KB. It contains numerical and categorical data.
+Daily Summary dataset for Nitrogen dioxide (NO2 (42602)) 2020 contains 157,726 Rows, 24 Columns, and is   2,159 KBv. It contains numerical and categorical data.
+
+## Hypothesis / Research Question(s)
+1) How is air pollution different by state/county?
+2) Which model will give us the most accurate analysis of categorizing into various clusters to see how the pollution is distributed geographically?
+3) What are some solutions for the different clusters? 
+
+Datasets for all four types of pollution (ozone, sulfur dioxide, carbon monoxide, and nitrogen dioxide) will be used to find answers to the research questions, along with comparing the AQI for the different types of pollution.
