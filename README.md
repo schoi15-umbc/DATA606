@@ -10,7 +10,7 @@ Saving and protecting our environment is a key topic these days. Every issue of 
 The United States Environmental Protection Agency (EPA) provides access to air quality data (primarily from Air quality system (AQS) database) collected at outdoor monitors across the United Sates, Puerto Rico, and the U.S Virgin Islands. The data can be used to view, create visuals and graphical displays, investigate monitor locations, and so on. It is accessible to the public and can be downloaded by hourly, daily, and annual concentration data, AQI data, and speciated particle pollution data.
 
 <pre>
-Phase 1 :  <a href=https://github.com/schoi15-umbc/DATA606/blob/main/Phase%201/Phase1.pptx>Power Point</a> / <a href=https://github.com/schoi15-umbc/DATA606/blob/main/Phase%201/Phase1_EDA.ipynb>EDA  </a> / Youtube</a>
+Phase 1 :  <a href=https://github.com/schoi15-umbc/DATA606/blob/main/Phase%201/Phase1.pptx>Power Point</a> / <a href=https://github.com/schoi15-umbc/DATA606/blob/main/Phase%201/Phase1_EDA.ipynb>EDA</a> / Youtube</a>
 Phase 2 :
 Phase 3P: 
 Executive Code  : <a href=>Executive Notebook </a> </a>
