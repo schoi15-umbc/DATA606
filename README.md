@@ -113,3 +113,7 @@ Lowest: Wyoming, New Mexico, New Jersey, New Hampshire
 In order to find the best analyzation for our dataset, the K-Means clustering model was ran to see how many clusters, and where the clusters were. The four data sets (four types of criteria gases) were ran separately, with the elements that had an AQI over the limit of a good-moderate pollution rate (In other words, the clusters showed the states/regions that had air pollution for each type of gas). 
 In order to find the number of clusters, the elbow method was used and generated. Below shows the generated model for the elbow method.
 
+![Screen Shot 2021-07-29 at 6 57 21 PM](https://user-images.githubusercontent.com/70929605/127575877-1e40fef5-0cea-43fd-8166-cf31240083af.png)
+![Screen Shot 2021-07-29 at 6 57 25 PM](https://user-images.githubusercontent.com/70929605/127575882-99a466a6-19bf-4ac6-978e-8cbd62629d81.png)
+![Screen Shot 2021-07-29 at 6 57 30 PM](https://user-images.githubusercontent.com/70929605/127575892-a9ce1d8a-fd49-45c1-8eb7-3dc6002bfe1e.png)
+![Screen Shot 2021-07-29 at 6 57 34 PM](https://user-images.githubusercontent.com/70929605/127575908-19f98b25-9870-4bbb-aea5-720701bdffca.png)
