@@ -66,3 +66,50 @@ Daily Summary dataset for Nitrogen dioxide (NO2 (42602)) 2020 contains 157,726 R
 3) What are some solutions for the different clusters? 
 
 Datasets for all four types of pollution (ozone, sulfur dioxide, carbon monoxide, and nitrogen dioxide) will be used to find answers to the research questions, along with comparing the AQI for the different types of pollution.
+
+## EDA
+The chart below shows the distribution for each criteria gas. Although it is not detailed, it shows a quick overview of how the AQI is distributed. 
+![Screen Shot 2021-07-28 at 11 01 32 PM](https://user-images.githubusercontent.com/70929605/127575550-4068fb6d-63a6-4902-ab93-de7c4b919072.png)
+
+### Box Plot for Each State's AQI Per Criteria Gas
+Each plot visually shows all the state's distribution of numerical data and skewness through displaying the data quartiles (or percentiles) and averages, along with the outliers. Because there are many states, it is hard to see the state's name; two additional charts were generated to show the 10 states with the highest, and the lowest AQI. Also, some noticeable factors are stated. 
+
+#### 1. Ozone 
+![ozone_state_aqi](https://user-images.githubusercontent.com/70929605/127575627-34025308-37c4-47cb-8667-d36a4ab565b0.png)
+
+Arizona has high AQI with highest and the most outliers. This shows that the AQI in the state seems to be very inconsistent.
+On the other hand, Alaska and Hawaii has a low AQI with no outlier. The AQI for ozone seems to be consistent.
+
+Highest : Arizona, Colorado, New Mexico, Utah 
+Lowest: Hawaii, Washington, Oregon, Alaska
+
+#### 2. Carbon Monoxide 
+![co_state_aqi](https://user-images.githubusercontent.com/70929605/127575694-5015ac79-158a-4e3e-ae1a-4605cbc56f0a.png)
+
+Oregon is the only state that has very high AQI with the outliers.
+
+Highest: Georgia, Arizona, Alaska, California
+Lowest: South Carolina, Wyoming, Mississippi, Nebraska 
+
+#### 3. Nitrogen Dioxide 
+![no2_state_aqi](https://user-images.githubusercontent.com/70929605/127575739-6f2fa05a-6b7b-4a55-bd36-4b83866314c6.png)
+
+Nevada has a high AQI with no outliers. This indicates that the AQI is very consistent.
+Highest: Nevada, Idaho, Arizona, Georgia
+Lowest: Montana, Wyoming, New Hampshire, North Dakota 
+
+#### 4. Sulfur Dioxide
+![so2_state_aqi](https://user-images.githubusercontent.com/70929605/127575784-9ed13273-53db-4576-8be1-859989d0f46a.png)
+
+Overall, most of the states have many outliers which suggests that sulfur dioxide AQI is inconsistent.
+Alaska has highest AQI with some low outliers.
+Hawaii, Texas, and Virginia has low AQI but very high outlier.
+Highest: Alaska, West Virginia, Alabama, Illinois
+Lowest: Wyoming, New Mexico, New Jersey, New Hampshire
+
+## Implementation (Model)
+#### K-Means Clustering 
+
+In order to find the best analyzation for our dataset, the K-Means clustering model was ran to see how many clusters, and where the clusters were. The four data sets (four types of criteria gases) were ran separately, with the elements that had an AQI over the limit of a good-moderate pollution rate (In other words, the clusters showed the states/regions that had air pollution for each type of gas). 
+In order to find the number of clusters, the elbow method was used and generated. Below shows the generated model for the elbow method.
+
