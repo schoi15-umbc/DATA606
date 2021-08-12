@@ -54,13 +54,6 @@ The United States Environmental Protection Agency (EPA) provides access to air q
 -
 (https://www.nps.gov/subjects/air/humanhealth-sulfur.htm)
 
-<pre>
-Phase 1 :  <a href=https://github.com/schoi15-umbc/DATA606/blob/main/Phase%201/Phase1.pptx>Power Point</a> / <a href=https://github.com/schoi15-umbc/DATA606/blob/main/Phase%201/Phase1_EDA.ipynb>EDA</a> / <a href=https://youtu.be/ZOv6Nv96m2o>Youtube</a>
-Phase 2 :  <a href=https://github.com/schoi15-umbc/DATA606/blob/main/Phase%2002/Phase02.pptx>Power Point</a> / <a href=https://github.com/schoi15-umbc/DATA606/blob/main/Phase%2002/phase2%20.ipynb>EDA and Model Construction</a> / <a href=https://youtu.be/dhbzJ0WItI4>Youtube</a>
-Phase 3: <a href=>Power Point</a> / <a href=>Execution and Interpretation</a> / Youtube</a>
-Executive Code  : <a href=>Executive Notebook </a> </a>
-
-
 *Literature Review*
 
 •European ozone measurements examined through a cluster analysis (CA) of 4 years of 3-hourly ozone data from 1492 European surface monitoring stations in the Airbase database
@@ -75,6 +68,15 @@ Authors: Olga Lyapina, Martin G. Schultz, and Andreas Hens
 Authors: Victor Chang; Pin Ni; Yuming L
 3. A clustering-based ensemble approach with improved pigeon-inspired optimization and extreme learning machine for air quality prediction
 Author: Feng Jiang a,, Jiaqi He a, Tianhai Tian b
+
+
+<pre>
+Phase 1 :  <a href=https://github.com/schoi15-umbc/DATA606/blob/main/Phase%201/Phase1.pptx>Power Point</a> / <a href=https://github.com/schoi15-umbc/DATA606/blob/main/Phase%201/Phase1_EDA.ipynb>EDA</a> / <a href=https://youtu.be/ZOv6Nv96m2o>Youtube</a>
+Phase 2 :  <a href=https://github.com/schoi15-umbc/DATA606/blob/main/Phase%2002/Phase02.pptx>Power Point</a> / <a href=https://github.com/schoi15-umbc/DATA606/blob/main/Phase%2002/phase2%20.ipynb>EDA and Model Construction</a> / <a href=https://youtu.be/dhbzJ0WItI4>Youtube</a>
+Phase 3: <a href=>Power Point</a> / <a href=>Execution and Interpretation</a> / Youtube</a>
+Executive Code  : <a href=>Executive Notebook </a> </a>
+
+
 
 </pre>
 
