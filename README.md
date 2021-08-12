@@ -117,3 +117,20 @@ In order to find the number of clusters, the elbow method was used and generated
 ![Screen Shot 2021-07-29 at 6 57 25 PM](https://user-images.githubusercontent.com/70929605/127575882-99a466a6-19bf-4ac6-978e-8cbd62629d81.png)
 ![Screen Shot 2021-07-29 at 6 57 30 PM](https://user-images.githubusercontent.com/70929605/127575892-a9ce1d8a-fd49-45c1-8eb7-3dc6002bfe1e.png)
 ![Screen Shot 2021-07-29 at 6 57 34 PM](https://user-images.githubusercontent.com/70929605/127575908-19f98b25-9870-4bbb-aea5-720701bdffca.png)
+
+Number of K: Ozone- 3, Carbon Monoxide- 4, Nitrogen Dioxide- 3, Sulfur Dioxide- 4
+
+Blow shows the result of clustering for the four types of criteria gases
+Ozone
+![image](https://user-images.githubusercontent.com/70929605/129127582-efa2c6ad-160b-4423-9bf8-4afa2f749bf5.png)
+
+Sulfur Dioxide 
+![image](https://user-images.githubusercontent.com/70929605/129127606-77623452-f658-4818-a4f2-2936b68f59b8.png)
+
+Carbon Monoxide
+![image](https://user-images.githubusercontent.com/70929605/129127620-336e7611-90be-4b39-a9f6-e70831a0402c.png)
+
+
+Nitrogen Dioxide 
+![image](https://user-images.githubusercontent.com/70929605/129127641-79323093-9683-4ae7-88a7-b57175f76655.png)
+
