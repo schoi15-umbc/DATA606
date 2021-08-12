@@ -64,8 +64,10 @@ The United States Environmental Protection Agency (EPA) provides access to air q
 
 1.Cluster analysis of European surface ozone observations for evaluation of MACC reanalysis data
 Authors: Olga Lyapina, Martin G. Schultz, and Andreas Hens
+
 2. K-Clustering Methods for Investigating Social-Environmental and Natural-Environmental Features Based on Air Quality Index
 Authors: Victor Chang; Pin Ni; Yuming L
+
 3. A clustering-based ensemble approach with improved pigeon-inspired optimization and extreme learning machine for air quality prediction
 Author: Feng Jiang a,, Jiaqi He a, Tianhai Tian b
 
@@ -213,4 +215,42 @@ Sulfur Dioxide:  AGI > 80
 #### Nitrogen Dioxide 
 
 ![image](https://user-images.githubusercontent.com/70929605/129127641-79323093-9683-4ae7-88a7-b57175f76655.png)
+
+
+## Solutions / Suggestions
+
+1. Ozone
+
+- Limiting driving 
+
+- Maintain vehicles/tools well
+
+- Try to use tools without motors.
+
+2. Carbon Monoxide
+
+- Regular inspections, maintenance
+
+- Proper storage in house 
+
+3. Nitrogen Dioxide
+
+- Manage and Reduce Emissions
+
+- Conserve energy, Less driving
+
+ 
+4. Sulfur Dioxide
+
+- Set regulations by State
+
+## Moving Forward..
+
+- Find more details for the clusters. 
+
+- Find a detailed dataset that has the indicators for pollution.
+
+- Generate clusters using time (See when the pollution is more severe).
+
+- Think of other analysis/ machine learning that I can do with the dataset. 
 
