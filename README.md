@@ -9,11 +9,72 @@ Saving and protecting our environment is a key topic these days. Every issue of 
 
 The United States Environmental Protection Agency (EPA) provides access to air quality data (primarily from Air quality system (AQS) database) collected at outdoor monitors across the United Sates, Puerto Rico, and the U.S Virgin Islands. The data can be used to view, create visuals and graphical displays, investigate monitor locations, and so on. It is accessible to the public and can be downloaded by hourly, daily, and annual concentration data, AQI data, and speciated particle pollution data.
 
+*How does the four criteria gases air pollution impact us?*
+
+#### Ozone
+-Coughing and pain when taking a deep breath
+
+-Lung and throat irritation
+
+-Wheezing and trouble breathing during exercise or outdoor activities
+
+-Can effect everyone, but specifically people with asthma or other lung diseases, older adults, babies and children
+(https://www.cdc.gov/air/ozone.html)
+
+#### Carbon monoxide
+-Breathing air with a high concentration of CO reduces the amount of oxygen that can be transported in the blood stream to critical organs like the heart and brain.
+
+- Can cause dizziness, confusion, unconsciousness and death.
+
+- Very high levels of CO are not likely to occur outdoors. However, when CO levels are elevated outdoors, they can be of particular concern for people with some types of heart disease.
+
+(https://www.epa.gov/co-pollution/basic-information-about-carbon-monoxide-co-outdoor-air-pollution)
+
+#### Nitrogen dioxide  
+
+- Increased inflammation of the airways 
+
+- Worsened cough and wheezing
+
+- Reduced lung function
+
+- Increased asthma attacks
+
+- Greater likelihood of emergency department and hospital admissions.
+
+(https://www.lung.org/clean-air/outdoors/what-makes-air-unhealthy/nitrogen-dioxide)
+
+#### Sulfur dioxide
+
+- Irritates the skin and mucous membranes of the eyes, nose, throat, and lungs. 
+
+- Can cause inflammation and irritation of the respiratory system.
+
+- Pain when taking a deep breath, coughing, throat irritation, and breathing difficulties. High concentrations of SO2 can affect lung function, worsen asthma attacks, and worsen existing heart disease in sensitive groups. 
+-
+(https://www.nps.gov/subjects/air/humanhealth-sulfur.htm)
+
 <pre>
 Phase 1 :  <a href=https://github.com/schoi15-umbc/DATA606/blob/main/Phase%201/Phase1.pptx>Power Point</a> / <a href=https://github.com/schoi15-umbc/DATA606/blob/main/Phase%201/Phase1_EDA.ipynb>EDA</a> / <a href=https://youtu.be/ZOv6Nv96m2o>Youtube</a>
 Phase 2 :  <a href=https://github.com/schoi15-umbc/DATA606/blob/main/Phase%2002/Phase02.pptx>Power Point</a> / <a href=https://github.com/schoi15-umbc/DATA606/blob/main/Phase%2002/phase2%20.ipynb>EDA and Model Construction</a> / <a href=https://youtu.be/dhbzJ0WItI4>Youtube</a>
 Phase 3: <a href=>Power Point</a> / <a href=>Execution and Interpretation</a> / Youtube</a>
 Executive Code  : <a href=>Executive Notebook </a> </a>
+
+
+*Literature Review*
+
+•European ozone measurements examined through a cluster analysis (CA) of 4 years of 3-hourly ozone data from 1492 European surface monitoring stations in the Airbase database
+
+•Propose the use of air quality index and the development of advanced data processing, analysis, and visualization techniques based on the AI-based k-clustering method, based in China.
+
+•Novel hybrid learning method, carried out to forecast urban air quality index (AQI). Wavelet packet decomposition (WPD) was firstly performed to decompose the original AQI data into lower-frequency subseries. (China)
+
+1.Cluster analysis of European surface ozone observations for evaluation of MACC reanalysis data
+Authors: Olga Lyapina, Martin G. Schultz, and Andreas Hens
+2. K-Clustering Methods for Investigating Social-Environmental and Natural-Environmental Features Based on Air Quality Index
+Authors: Victor Chang; Pin Ni; Yuming L
+3. A clustering-based ensemble approach with improved pigeon-inspired optimization and extreme learning machine for air quality prediction
+Author: Feng Jiang a,, Jiaqi He a, Tianhai Tian b
 
 </pre>
 
