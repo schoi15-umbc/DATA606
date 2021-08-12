@@ -123,13 +123,18 @@ Number of K: Ozone- 3, Carbon Monoxide- 4, Nitrogen Dioxide- 3, Sulfur Dioxide- 
 Blow shows the result of clustering for the four types of criteria gases
 
 Setting boundary of the dataset to at least ’moderately polluted’
+
 Ozone:  AQI > 100
+
 Carbon Monoxide:  AQI > 10
+
 Nitrogen Dioxide: AQI > 80
+
 Sulfur Dioxide:  AGI > 80
 
 
 #### Ozone
+
 
 ![image](https://user-images.githubusercontent.com/70929605/129127582-efa2c6ad-160b-4423-9bf8-4afa2f749bf5.png)
 
