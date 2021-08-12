@@ -2,6 +2,15 @@
 ![1600px-Air_pollution_banner_Smog_in_Warsaw](https://user-images.githubusercontent.com/70929605/125210145-d520b280-e26b-11eb-99fd-f3829fc825e3.jpg)
 
 
+<pre>
+
+Phase 1 :  <a href=https://github.com/schoi15-umbc/DATA606/blob/main/Phase%201/Phase1.pptx>Power Point</a> / <a href=https://github.com/schoi15-umbc/DATA606/blob/main/Phase%201/Phase1_EDA.ipynb>EDA</a> / <a href=https://youtu.be/ZOv6Nv96m2o>Youtube</a>
+Phase 2 :  <a href=https://github.com/schoi15-umbc/DATA606/blob/main/Phase%2002/Phase02.pptx>Power Point</a> / <a href=https://github.com/schoi15-umbc/DATA606/blob/main/Phase%2002/phase2%20.ipynb>EDA and Model Construction</a> / <a href=https://youtu.be/dhbzJ0WItI4>Youtube</a>
+Phase 3: <a href=https://github.com/schoi15-umbc/DATA606/blob/main/Phase%2003/Phase03.pptx>Power Point</a> / Youtube</a>
+Executive Code  : <a href=>Executive Notebook </a> </a>
+
+</pre>
+
 ## Introduction
 Saving and protecting our environment is a key topic these days. Every issue of pollution is important and essential in our ecosystem. Out of many factors, air is essential to life and the quality of air can highly effect our health. Every year, millions of Americans suffer from adverse health impacts liked to air pollution, an d tens of thousands have their lives cut short. This project focuses on air pollution with the retrieved air data. 
 
@@ -71,16 +80,6 @@ Authors: Victor Chang; Pin Ni; Yuming L
 3. A clustering-based ensemble approach with improved pigeon-inspired optimization and extreme learning machine for air quality prediction
 Author: Feng Jiang a,, Jiaqi He a, Tianhai Tian b
 
-
-<pre>
-Phase 1 :  <a href=https://github.com/schoi15-umbc/DATA606/blob/main/Phase%201/Phase1.pptx>Power Point</a> / <a href=https://github.com/schoi15-umbc/DATA606/blob/main/Phase%201/Phase1_EDA.ipynb>EDA</a> / <a href=https://youtu.be/ZOv6Nv96m2o>Youtube</a>
-Phase 2 :  <a href=https://github.com/schoi15-umbc/DATA606/blob/main/Phase%2002/Phase02.pptx>Power Point</a> / <a href=https://github.com/schoi15-umbc/DATA606/blob/main/Phase%2002/phase2%20.ipynb>EDA and Model Construction</a> / <a href=https://youtu.be/dhbzJ0WItI4>Youtube</a>
-Phase 3: <a href=https://github.com/schoi15-umbc/DATA606/blob/main/Phase%2003/Phase03.pptx>Power Point</a> / Youtube</a>
-Executive Code  : <a href=>Executive Notebook </a> </a>
-
-
-
-</pre>
 
 
 ## Data Set 
