@@ -8,6 +8,8 @@ Phase 1 :  <a href=https://github.com/schoi15-umbc/DATA606/blob/main/Phase%201/P
 Phase 2 :  <a href=https://github.com/schoi15-umbc/DATA606/blob/main/Phase%2002/Phase02.pptx>Power Point</a> / <a href=https://github.com/schoi15-umbc/DATA606/blob/main/Phase%2002/phase2%20.ipynb>EDA and Model Construction</a> / <a href=https://youtu.be/dhbzJ0WItI4>Youtube</a>
 Phase 3: <a href=https://github.com/schoi15-umbc/DATA606/blob/main/Phase%2003/Phase03.pptx>Power Point</a> / Youtube</a>
 Executive Code  : <a href=https://github.com/schoi15-umbc/DATA606/blob/main/Phase%2003/606_executive_notebook%20.ipynb>Executive Notebook </a> </a>
+Executive Power Point:  <a href=https://github.com/schoi15-umbc/DATA606/blob/main/Final_PPT.pptx>Presentation</a>
+Executive Video: <a href=>Youtube</a>
 
 </pre>
 
