@@ -6,7 +6,7 @@
 
 Phase 1 :  <a href=https://github.com/schoi15-umbc/DATA606/blob/main/Phase%201/Phase1.pptx>Power Point</a> / <a href=https://github.com/schoi15-umbc/DATA606/blob/main/Phase%201/Phase1_EDA.ipynb>EDA</a> / <a href=https://youtu.be/ZOv6Nv96m2o>Youtube</a>
 Phase 2 :  <a href=https://github.com/schoi15-umbc/DATA606/blob/main/Phase%2002/Phase02.pptx>Power Point</a> / <a href=https://github.com/schoi15-umbc/DATA606/blob/main/Phase%2002/phase2%20.ipynb>EDA and Model Construction</a> / <a href=https://youtu.be/dhbzJ0WItI4>Youtube</a>
-Phase 3: <a href=https://github.com/schoi15-umbc/DATA606/blob/main/Phase%2003/Phase03.pptx>Power Point</a> / Youtube</a>
+Phase 3: <a href=https://github.com/schoi15-umbc/DATA606/blob/main/Phase%2003/Phase03.pptx>Power Point</a> 
 Executive Code  : <a href=https://github.com/schoi15-umbc/DATA606/blob/main/Phase%2003/606_executive_notebook%20.ipynb>Executive Notebook </a> </a>
 Executive Power Point:  <a href=https://github.com/schoi15-umbc/DATA606/blob/main/Final_PPT.pptx>Presentation</a>
 Executive Video: <a href=https://youtu.be/LF2vlsPykoQ>Youtube</a>
@@ -149,6 +149,9 @@ On the other hand, Alaska and Hawaii has a low AQI with no outlier. The AQI for 
 Highest : Arizona, Colorado, New Mexico, Utah 
 Lowest: Hawaii, Washington, Oregon, Alaska
 
+<img width="634" alt="image" src="https://user-images.githubusercontent.com/70929605/130001955-29bb2042-eebb-4727-8e74-11f0d017b686.png">
+
+
 #### 2. Carbon Monoxide 
 ![co_state_aqi](https://user-images.githubusercontent.com/70929605/127575694-5015ac79-158a-4e3e-ae1a-4605cbc56f0a.png)
 
@@ -157,12 +160,18 @@ Oregon is the only state that has very high AQI with the outliers.
 Highest: Georgia, Arizona, Alaska, California
 Lowest: South Carolina, Wyoming, Mississippi, Nebraska 
 
+<img width="580" alt="image" src="https://user-images.githubusercontent.com/70929605/130001964-78cb5607-3942-4fbd-b8b7-1639462d0cd9.png">
+
+
 #### 3. Nitrogen Dioxide 
 ![no2_state_aqi](https://user-images.githubusercontent.com/70929605/127575739-6f2fa05a-6b7b-4a55-bd36-4b83866314c6.png)
 
 Nevada has a high AQI with no outliers. This indicates that the AQI is very consistent.
 Highest: Nevada, Idaho, Arizona, Georgia
 Lowest: Montana, Wyoming, New Hampshire, North Dakota 
+
+<img width="588" alt="image" src="https://user-images.githubusercontent.com/70929605/130001981-5a3b2064-0c2a-41bc-bdc6-abcd32354bd3.png">
+
 
 #### 4. Sulfur Dioxide
 ![so2_state_aqi](https://user-images.githubusercontent.com/70929605/127575784-9ed13273-53db-4576-8be1-859989d0f46a.png)
@@ -172,6 +181,9 @@ Alaska has highest AQI with some low outliers.
 Hawaii, Texas, and Virginia has low AQI but very high outlier.
 Highest: Alaska, West Virginia, Alabama, Illinois
 Lowest: Wyoming, New Mexico, New Jersey, New Hampshire
+
+<img width="590" alt="image" src="https://user-images.githubusercontent.com/70929605/130001989-47c07967-19b2-4af2-ad5a-700e21337788.png">
+
 
 ## Implementation (Model)
 #### K-Means Clustering 
